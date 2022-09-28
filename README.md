@@ -1,1 +1,0 @@
-# demo-customer-profile-service
